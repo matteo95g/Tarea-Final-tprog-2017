@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+#sidebar{
+	background: linear-gradient(#222, pink);
+	width: 300px;
+	height: 100% !important;
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: 49px;
+	overflow: hidden;
+}
+
+.card-block {
+	margin-bottom: 5px !important;
+}
+
+body {
+	overflow: hidden !important;
+}
+.links{
+	padding-top: 3px;
+	list-style: none;
+}
+
+.linksa2CancExt{
+	background: #546d6c;
+	color: white;
+	border-bottom: 1px solid #111;
+	display:block;
+	width: 100px;
+	padding: 9px;
+	border-radius: 3px;
+	text-decoration: none !important;
+}
+
+.linksa{
+	background: #404042;
+	color: #ccc;
+	border-bottom: 1px solid #111;
+	display:block;
+	width: 200px;
+	padding: 9px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.linksa2{
+	background: #546d6c;
+	color: white;
+	border-bottom: 1px solid #111;
+	display:block;
+	width: 200px;
+	padding: 5px;
+	border-radius: 3px;
+	text-decoration: none !important;
+}
+
+#comentario{
+	height: 700px;
+	width: 700px;
+	overflow: auto;
+	margin-left: 23%;
+	float: left;
+}
+
+#colaboradores{
+    height: 700px;
+	width: 400px;
+	overflow: auto;
+	margin-left: 73%;
+}
+
+.linksa22{
+	text-decoration: none !important;
+	cursor: pointer;
+}
+
+.container {
+  padding-right: 15px !important;
+  padding-left: 200px !important;
+  padding-top: 0px !important;
+  margin-right: auto !important;
+  margin-top: auto !important;
+  margin-left: auto !important;
+}
+
+.card-img-top{
+	width: 198px !important;
+	height: 100px !important;
+	margin-bottom: 0px !important;
+}
+
+
+.list-group-item{
+	font-size: 75% !important;
+}

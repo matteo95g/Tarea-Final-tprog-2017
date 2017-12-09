@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.navbar-casero {
+  float: left !important; 
+  height: 30px !important;
+  padding: 15px 60px !important;
+  font-size: 28p !important;
+  line-height: 20px !important;
+}
+.navbar-casero:hover,
+.navbar-casero:focus {
+  text-decoration: none !important;
+}
+.navbar-casero > img {
+  display: block !important;
+}
+.navbar-default .navbar-casero {
+  color: #777 !important;
+}
+.navbar-default .navbar-casero:hover,
+.navbar-default .navbar-casero:focus {
+  color: #5e5e5e !important;
+  background-color: transparent !important;
+}
+.navbar-inverse .navbar-casero {
+  color: #0081ff !important;
+}
+.navbar-inverse .navbar-casero:hover,
+.navbar-inverse .navbar-casero:focus {
+  color: #00aaff !important;
+  background-color: transparent !important;
+}
